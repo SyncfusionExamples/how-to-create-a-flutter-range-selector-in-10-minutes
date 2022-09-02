@@ -1,7 +1,7 @@
 # How to Create a Flutter Range Selector in 10 Minutes
 A quick-start example to help you add the Syncfusion Flutter Sliders package to a Flutter app. You will learn how to add a Range Selector widget to a Flutter project, how to set value limits; show data labels; intervals; ticks; enable tooltips; and format the Range Selector values. You will also learn how to set date time values to the Range Selector.
 
-Watch the video: Coming soon...
+Watch the video: https://www.syncfusion.com/tutorial-videos/flutter/range-selector
 
 Documentation: https://help.syncfusion.com/flutter/range-selector/overview 
 
